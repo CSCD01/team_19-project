@@ -4,4 +4,6 @@
 |I1 | 10/10 | VSCode is an ambitious project. Looking forward to D1.           |
 |D1 | 40/40 | Good UML. Great explanation of the 3 layers.            |
 |I2 | 10/10 | Good understanding of overall architecture + well prepared.           |
+|I4 | 10/10 | Great demo. Good Job !           |
+|I5 | 10/10 | Good feature explanation. Well prepared.          |
 
