@@ -6,5 +6,7 @@
 |I2 | 10/10 | Good understanding of overall architecture + well prepared.           |
 |D2 | 100/100 |Good Report. All aspects of present. Clear evidence of following the software process            |
 |I3 | 10/10 | Great demo. Good Job !           |
+|D3 | 100/100 |        |
 |I4 | 10/10 | Good feature explanation. Well prepared.          |
+|D3 | 110/110 |        |
 
